@@ -1,0 +1,65 @@
+a {
+	text-decoration: none;
+	color: #404040;
+}
+
+body {
+	font-family: arial, sans-serif;
+	font-size: small;
+	color: #222;
+	background: #fff;
+}
+
+ul {
+	list-style-type: none;
+	margin: 10;
+	padding: 0;
+	text-align: right;
+}
+
+li {
+	display: inline;
+	text-align: right;
+	padding: 10px 15px 10px 0px;
+}
+
+
+#jumbotron {
+	width: 258px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+}
+
+form {
+	width: 565px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form .submit {
+	display: inline;
+	width: 100px;
+	margin-left: 172px;
+}
+
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float: left;
+	padding: 0px 5px 0px 5px;
+}
+
+.bottom-nav {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	height: 3em;
+	margin-top: 26.8em;
+}
